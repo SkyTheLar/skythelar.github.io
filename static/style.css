@@ -2,11 +2,13 @@ body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     margin-left: 7vw;
     margin-right: 7vw;
+    font-size: 3vh;
 }
 
 .navbar {
     display: flex;
     justify-content: space-around;
+
 }
 
 .navbar-item {
